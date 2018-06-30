@@ -1,0 +1,538 @@
+dstep = 10, direction= 97
+step1: (x, y) = (-9.25148 , 3.79608) 
+dstep = 10, direction= 102
+step2: (x, y) = (-8.23562 , 13.7443) 
+dstep = 10, direction= 133
+step3: (x, y) = (-3.2869 , 22.434) 
+dstep = 10, direction= 127
+step4: (x, y) = (-0.963305 , 32.1603) 
+dstep = 10, direction= 284
+step5: (x, y) = (2.12664 , 41.6709) 
+dstep = 10, direction= 107
+step6: (x, y) = (11.9544 , 43.5188) 
+dstep = 10, direction= 122
+step7: (x, y) = (3.28676 , 48.5059) 
+dstep = 10, direction= 251
+step8: (x, y) = (12.7555 , 45.29) 
+dstep = 10, direction= 303
+step9: (x, y) = (14.3851 , 55.1563) 
+dstep = 10, direction= 34
+step10: (x, y) = (5.89945 , 60.4471) 
+dstep = 10, direction= 161
+step11: (x, y) = (-1.2183 , 53.423) 
+dstep = 10, direction= 196
+step12: (x, y) = (2.20636 , 62.8183) 
+dstep = 10, direction= 268
+step13: (x, y) = (-3.49089 , 54.6) 
+dstep = 10, direction= 45
+step14: (x, y) = (1.76233 , 63.109) 
+dstep = 10, direction= 44
+step15: (x, y) = (11.7608 , 63.286) 
+dstep = 10, direction= 86
+step16: (x, y) = (7.92378 , 54.0514) 
+dstep = 10, direction= 98
+step17: (x, y) = (-0.269107 , 48.3176) 
+dstep = 10, direction= 34
+step18: (x, y) = (-8.75481 , 53.6085) 
+dstep = 10, direction= 159
+step19: (x, y) = (-12.1798 , 63.0037) 
+dstep = 10, direction= 261
+step20: (x, y) = (-21.8743 , 60.5508) 
+dstep = 10, direction= 320
+step21: (x, y) = (-12.8372 , 56.2693) 
+dstep = 10, direction= 301
+step22: (x, y) = (-4.54396 , 50.6816) 
+dstep = 10, direction= 109
+step23: (x, y) = (-10.314 , 58.8491) 
+dstep = 10, direction= 131
+step24: (x, y) = (-4.47189 , 50.733) 
+dstep = 10, direction= 303
+step25: (x, y) = (-2.84228 , 60.5994) 
+dstep = 10, direction= 200
+step26: (x, y) = (2.02959 , 51.8664) 
+dstep = 10, direction= 189
+step27: (x, y) = (10.784 , 56.6996) 
+dstep = 10, direction= 115
+step28: (x, y) = (7.52594 , 66.1539) 
+dstep = 10, direction= 290
+step29: (x, y) = (13.1502 , 74.4224) 
+dstep = 10, direction= 60
+step30: (x, y) = (3.6261 , 71.3743) 
+dstep = 10, direction= 287
+step31: (x, y) = (-0.775056 , 62.3949) 
+dstep = 10, direction= 260
+step32: (x, y) = (-8.077 , 69.2273) 
+dstep = 10, direction= 34
+step33: (x, y) = (-16.5627 , 74.5181) 
+dstep = 10, direction= 61
+step34: (x, y) = (-19.1437 , 64.8569) 
+dstep = 10, direction= 27
+step35: (x, y) = (-22.0651 , 74.4207) 
+dstep = 10, direction= 318
+step36: (x, y) = (-29.7191 , 67.9851) 
+dstep = 10, direction= 168
+step37: (x, y) = (-30.4704 , 58.0133) 
+dstep = 10, direction= 150
+step38: (x, y) = (-23.4779 , 50.8646) 
+dstep = 10, direction= 81
+step39: (x, y) = (-15.711 , 44.5657) 
+dstep = 10, direction= 111
+step40: (x, y) = (-20.7365 , 35.9202) 
+dstep = 10, direction= 184
+step41: (x, y) = (-22.8878 , 45.686) 
+dstep = 10, direction= 114
+step42: (x, y) = (-16.6926 , 53.5358) 
+dstep = 10, direction= 180
+step43: (x, y) = (-22.6772 , 45.5243) 
+dstep = 10, direction= 324
+step44: (x, y) = (-31.8245 , 41.4836) 
+dstep = 10, direction= 159
+step45: (x, y) = (-35.2495 , 50.8788) 
+dstep = 10, direction= 96
+step46: (x, y) = (-37.0538 , 60.7147) 
+dstep = 10, direction= 283
+step47: (x, y) = (-27.3814 , 63.2532) 
+dstep = 10, direction= 130
+step48: (x, y) = (-31.0543 , 53.9522) 
+dstep = 10, direction= 130
+step49: (x, y) = (-34.7272 , 44.6511) 
+dstep = 10, direction= 82
+step50: (x, y) = (-25.2304 , 47.7834) 
+dstep = 10, direction= 31
+step51: (x, y) = (-16.083 , 43.743) 
+dstep = 10, direction= 322
+step52: (x, y) = (-15.9505 , 53.7422) 
+dstep = 10, direction= 255
+step53: (x, y) = (-24.5735 , 48.6782) 
+dstep = 10, direction= 141
+step54: (x, y) = (-33.8908 , 52.3099) 
+dstep = 10, direction= 326
+step55: (x, y) = (-26.41 , 45.6738) 
+dstep = 10, direction= 71
+step56: (x, y) = (-29.5002 , 55.1844) 
+dstep = 10, direction= 213
+step57: (x, y) = (-21.4099 , 49.3067) 
+dstep = 10, direction= 155
+step58: (x, y) = (-26.2816 , 40.5736) 
+dstep = 10, direction= 186
+step59: (x, y) = (-34.2663 , 34.5533) 
+dstep = 10, direction= 144
+step60: (x, y) = (-25.5549 , 29.6431) 
+dstep = 10, direction= 215
+step61: (x, y) = (-23.577 , 39.4456) 
+dstep = 10, direction= 113
+step62: (x, y) = (-13.6244 , 38.4737) 
+dstep = 10, direction= 276
+step63: (x, y) = (-4.66452 , 34.0329) 
+dstep = 10, direction= 249
+step64: (x, y) = (-11.5292 , 26.7612) 
+dstep = 10, direction= 46
+step65: (x, y) = (-15.8509 , 35.7791) 
+dstep = 10, direction= 303
+step66: (x, y) = (-14.2213 , 45.6455) 
+dstep = 10, direction= 79
+step67: (x, y) = (-23.181 , 41.2043) 
+dstep = 10, direction= 215
+step68: (x, y) = (-21.2032 , 51.0068) 
+dstep = 10, direction= 325
+step69: (x, y) = (-22.7454 , 41.1264) 
+dstep = 10, direction= 160
+step70: (x, y) = (-32.5017 , 43.3207) 
+dstep = 10, direction= 198
+step71: (x, y) = (-42.47 , 42.5249) 
+dstep = 10, direction= 149
+step72: (x, y) = (-44.7074 , 32.7784) 
+dstep = 10, direction= 274
+step73: (x, y) = (-52.4741 , 26.4793) 
+dstep = 10, direction= 18
+step74: (x, y) = (-45.8709 , 18.9694) 
+dstep = 10, direction= 346
+step75: (x, y) = (-36.7597 , 23.0909) 
+dstep = 10, direction= 306
+step76: (x, y) = (-39.7654 , 13.5533) 
+dstep = 10, direction= 114
+step77: (x, y) = (-33.5702 , 21.4031) 
+dstep = 10, direction= 269
+step78: (x, y) = (-29.7329 , 12.1686) 
+dstep = 10, direction= 76
+step79: (x, y) = (-21.4896 , 17.8297) 
+dstep = 10, direction= 117
+step80: (x, y) = (-28.7306 , 10.9327) 
+dstep = 10, direction= 223
+step81: (x, y) = (-38.7165 , 11.4632) 
+dstep = 10, direction= 107
+step82: (x, y) = (-28.8887 , 13.311) 
+dstep = 10, direction= 79
+step83: (x, y) = (-37.8484 , 8.86992) 
+dstep = 10, direction= 351
+step84: (x, y) = (-31.3117 , 1.30209) 
+dstep = 10, direction= 120
+step85: (x, y) = (-23.1699 , 7.1082) 
+dstep = 10, direction= 45
+step86: (x, y) = (-17.9167 , 15.6172) 
+dstep = 10, direction= 62
+step87: (x, y) = (-11.1816 , 8.22543) 
+dstep = 10, direction= 334
+step88: (x, y) = (-5.70459 , 16.5922) 
+dstep = 10, direction= 200
+step89: (x, y) = (-0.832708 , 7.85918) 
+dstep = 10, direction= 120
+step90: (x, y) = (7.3091 , 13.6653) 
+dstep = 10, direction= 350
+step91: (x, y) = (4.47277 , 4.07596) 
+dstep = 10, direction= 287
+step92: (x, y) = (0.0716091 , -4.90345) 
+dstep = 10, direction= 105
+step93: (x, y) = (-2.33798 , -14.6088) 
+dstep = 10, direction= 266
+step94: (x, y) = (-7.44001 , -6.00826) 
+dstep = 10, direction= 48
+step95: (x, y) = (-13.8415 , -13.6908) 
+dstep = 10, direction= 152
+step96: (x, y) = (-10.251 , -4.3576) 
+dstep = 10, direction= 209
+step97: (x, y) = (-11.0909 , 5.60706) 
+dstep = 10, direction= 127
+step98: (x, y) = (-8.76732 , 15.3334) 
+dstep = 10, direction= 7
+step99: (x, y) = (-1.22829 , 21.9032) 
+dstep = 10, direction= 175
+step100: (x, y) = (4.75655 , 13.8919) 
+dstep = 10, direction= 159
+step101: (x, y) = (1.3316 , 23.2871) 
+dstep = 10, direction= 77
+step102: (x, y) = (1.02185 , 33.2823) 
+dstep = 10, direction= 196
+step103: (x, y) = (4.44652 , 42.6776) 
+dstep = 10, direction= 306
+step104: (x, y) = (1.44088 , 33.14) 
+dstep = 10, direction= 96
+step105: (x, y) = (-0.363427 , 42.9758) 
+dstep = 10, direction= 54
+step106: (x, y) = (-8.65652 , 37.388) 
+dstep = 10, direction= 252
+step107: (x, y) = (-0.834404 , 43.6181) 
+dstep = 10, direction= 82
+step108: (x, y) = (8.66237 , 46.7504) 
+dstep = 10, direction= 195
+step109: (x, y) = (18.4186 , 48.9449) 
+dstep = 10, direction= 328
+step110: (x, y) = (21.3397 , 58.5088) 
+dstep = 10, direction= 199
+step111: (x, y) = (16.6234 , 49.6908) 
+dstep = 10, direction= 59
+step112: (x, y) = (8.91264 , 56.0582) 
+dstep = 10, direction= 307
+step113: (x, y) = (15.3143 , 48.3758) 
+dstep = 10, direction= 151
+step114: (x, y) = (25.1079 , 50.3973) 
+dstep = 10, direction= 282
+step115: (x, y) = (32.47 , 43.6298) 
+dstep = 10, direction= 68
+step116: (x, y) = (36.8714 , 34.6505) 
+dstep = 10, direction= 196
+step117: (x, y) = (40.2961 , 44.0458) 
+dstep = 10, direction= 344
+step118: (x, y) = (40.2521 , 34.0459) 
+dstep = 10, direction= 42
+step119: (x, y) = (36.2523 , 24.8807) 
+dstep = 10, direction= 37
+step120: (x, y) = (43.9064 , 18.4453) 
+dstep = 10, direction= 336
+step121: (x, y) = (34.0193 , 19.9438) 
+dstep = 10, direction= 264
+step122: (x, y) = (43.963 , 21.004) 
+dstep = 10, direction= 196
+step123: (x, y) = (47.3876 , 30.3993) 
+dstep = 10, direction= 81
+step124: (x, y) = (55.1545 , 24.1004) 
+dstep = 10, direction= 170
+step125: (x, y) = (64.5344 , 27.5669) 
+dstep = 10, direction= 245
+step126: (x, y) = (74.5247 , 27.1248) 
+dstep = 10, direction= 233
+step127: (x, y) = (83.1922 , 32.1122) 
+dstep = 10, direction= 251
+step128: (x, y) = (92.661 , 28.8962) 
+dstep = 10, direction= 244
+step129: (x, y) = (97.6867 , 20.2509) 
+dstep = 10, direction= 112
+step130: (x, y) = (102.246 , 11.3509) 
+dstep = 10, direction= 298
+step1: (x, y) = (-8.9988 , 4.36138) 
+dstep = 10, direction= 44
+step2: (x, y) = (0.999633 , 4.5384) 
+dstep = 10, direction= 190
+step3: (x, y) = (1.6627 , 14.5164) 
+dstep = 10, direction= 7
+step4: (x, y) = (9.20172 , 21.0863) 
+dstep = 10, direction= 222
+step5: (x, y) = (4.25274 , 29.7758) 
+dstep = 10, direction= 158
+step6: (x, y) = (10.308 , 37.734) 
+dstep = 10, direction= 61
+step7: (x, y) = (7.727 , 28.0728) 
+dstep = 10, direction= 114
+step8: (x, y) = (13.9222 , 35.9226) 
+dstep = 10, direction= 112
+step9: (x, y) = (18.4819 , 27.0227) 
+dstep = 10, direction= 257
+step10: (x, y) = (26.675 , 21.2891) 
+dstep = 10, direction= 314
+step11: (x, y) = (36.5484 , 19.7032) 
+dstep = 10, direction= 312
+step12: (x, y) = (30.9975 , 11.3853) 
+dstep = 10, direction= 188
+step13: (x, y) = (39.7945 , 6.63002) 
+dstep = 10, direction= 261
+step14: (x, y) = (30.1 , 4.17721) 
+dstep = 10, direction= 103
+step15: (x, y) = (22.2777 , 10.4071) 
+dstep = 10, direction= 110
+step16: (x, y) = (12.2875 , 9.96467) 
+dstep = 10, direction= 201
+step17: (x, y) = (22.2683 , 9.34577) 
+dstep = 10, direction= 171
+step18: (x, y) = (24.4194 , 19.1117) 
+dstep = 10, direction= 326
+step19: (x, y) = (31.9002 , 12.4756) 
+dstep = 10, direction= 115
+step20: (x, y) = (28.6421 , 21.9299) 
+dstep = 10, direction= 80
+step21: (x, y) = (27.5382 , 11.991) 
+dstep = 10, direction= 302
+step22: (x, y) = (36.7209 , 15.9506) 
+dstep = 10, direction= 19
+step23: (x, y) = (46.6079 , 17.4493) 
+dstep = 10, direction= 277
+step24: (x, y) = (55.1858 , 22.5894) 
+dstep = 10, direction= 255
+step25: (x, y) = (46.5628 , 17.5255) 
+dstep = 10, direction= 61
+step26: (x, y) = (43.9818 , 7.86428) 
+dstep = 10, direction= 34
+step27: (x, y) = (35.4961 , 13.1551) 
+dstep = 10, direction= 1
+step28: (x, y) = (40.8991 , 21.5698) 
+dstep = 10, direction= 313
+step29: (x, y) = (44.8992 , 12.4047) 
+dstep = 10, direction= 278
+step30: (x, y) = (45.2087 , 22.3999) 
+dstep = 10, direction= 113
+step31: (x, y) = (55.1613 , 21.4281) 
+dstep = 10, direction= 251
+step32: (x, y) = (64.6301 , 18.2122) 
+dstep = 10, direction= 194
+step33: (x, y) = (71.7481 , 11.1883) 
+dstep = 10, direction= 175
+step34: (x, y) = (77.7329 , 3.17696) 
+dstep = 10, direction= 258
+step35: (x, y) = (86.9843 , 6.97332) 
+dstep = 10, direction= 56
+step36: (x, y) = (95.5165 , 1.75781) 
+dstep = 10, direction= 205
+step37: (x, y) = (88.5242 , -5.39116) 
+dstep = 10, direction= 192
+step38: (x, y) = (79.1753 , -8.94055) 
+dstep = 10, direction= 170
+step39: (x, y) = (88.5552 , -5.47405) 
+dstep = 10, direction= 318
+step40: (x, y) = (80.9013 , -11.9097) 
+dstep = 10, direction= 89
+step41: (x, y) = (86.0031 , -3.30897) 
+dstep = 10, direction= 356
+step42: (x, y) = (80.6003 , -11.7238) 
+dstep = 10, direction= 142
+step43: (x, y) = (72.5102 , -17.6018) 
+dstep = 10, direction= 149
+step44: (x, y) = (70.2728 , -27.3483) 
+dstep = 10, direction= 130
+step45: (x, y) = (66.5999 , -36.6493) 
+dstep = 10, direction= 117
+step46: (x, y) = (59.3589 , -43.5463) 
+dstep = 10, direction= 259
+step47: (x, y) = (61.1629 , -33.7104) 
+dstep = 10, direction= 203
+step48: (x, y) = (57.5722 , -24.3773) 
+dstep = 10, direction= 288
+step49: (x, y) = (62.7501 , -32.9323) 
+dstep = 10, direction= 225
+step50: (x, y) = (66.4233 , -42.2333) 
+dstep = 10, direction= 319
+step51: (x, y) = (67.7033 , -52.151) 
+dstep = 10, direction= 9
+step52: (x, y) = (58.592 , -48.0298) 
+dstep = 10, direction= 39
+step53: (x, y) = (61.2584 , -38.3919) 
+dstep = 10, direction= 210
+step54: (x, y) = (52.4196 , -33.7147) 
+dstep = 10, direction= 158
+step55: (x, y) = (58.4749 , -25.7565) 
+dstep = 10, direction= 294
+step56: (x, y) = (61.0562 , -35.4176) 
+dstep = 10, direction= 144
+step57: (x, y) = (69.7677 , -40.3278) 
+dstep = 10, direction= 192
+step58: (x, y) = (60.4188 , -43.8772) 
+dstep = 10, direction= 295
+step59: (x, y) = (69.943 , -46.925) 
+dstep = 10, direction= 97
+step60: (x, y) = (60.6915 , -43.1289) 
+dstep = 10, direction= 110
+step61: (x, y) = (50.7013 , -43.5713) 
+dstep = 10, direction= 281
+step62: (x, y) = (48.9844 , -53.4229) 
+dstep = 10, direction= 220
+step63: (x, y) = (58.9453 , -52.5389) 
+dstep = 10, direction= 177
+step64: (x, y) = (63.7394 , -43.763) 
+dstep = 10, direction= 328
+step65: (x, y) = (66.6605 , -34.1991) 
+dstep = 10, direction= 351
+step66: (x, y) = (73.1972 , -41.7669) 
+dstep = 10, direction= 233
+step67: (x, y) = (81.8647 , -36.7796) 
+dstep = 10, direction= 174
+step68: (x, y) = (78.357 , -46.1442) 
+dstep = 10, direction= 183
+step69: (x, y) = (85.4123 , -39.0574) 
+dstep = 10, direction= 276
+step70: (x, y) = (94.3722 , -43.4982) 
+dstep = 10, direction= 132
+step71: (x, y) = (104.358 , -42.9674) 
+dstep = 10, direction= 144
+step72: (x, y) = (113.07 , -47.8776) 
+dstep = 10, direction= 272
+step73: (x, y) = (110.574 , -38.194) 
+dstep = 10, direction= 274
+step74: (x, y) = (102.807 , -44.4932) 
+dstep = 10, direction= 165
+step75: (x, y) = (102.144 , -34.5152) 
+dstep = 10, direction= 274
+step76: (x, y) = (94.3771 , -40.8143) 
+dstep = 10, direction= 31
+step77: (x, y) = (103.525 , -44.8547) 
+dstep = 10, direction= 64
+step78: (x, y) = (107.443 , -35.6544) 
+dstep = 10, direction= 118
+step79: (x, y) = (109.334 , -45.4739) 
+dstep = 10, direction= 191
+step80: (x, y) = (101.296 , -39.5248) 
+dstep = 10, direction= 161
+step81: (x, y) = (94.1787 , -46.5489) 
+dstep = 10, direction= 77
+step82: (x, y) = (93.869 , -36.5537) 
+dstep = 10, direction= 200
+step83: (x, y) = (98.7409 , -45.2867) 
+dstep = 10, direction= 72
+step84: (x, y) = (89.0684 , -42.7485) 
+dstep = 10, direction= 159
+step85: (x, y) = (85.6434 , -33.3533) 
+dstep = 10, direction= 358
+step86: (x, y) = (95.5434 , -34.7642) 
+dstep = 10, direction= 6
+step87: (x, y) = (105.145 , -37.5583) 
+dstep = 10, direction= 303
+step88: (x, y) = (106.775 , -27.692) 
+dstep = 10, direction= 190
+step89: (x, y) = (107.438 , -17.714) 
+dstep = 10, direction= 174
+step90: (x, y) = (103.93 , -27.0786) 
+dstep = 10, direction= 272
+step91: (x, y) = (101.434 , -17.3951) 
+dstep = 10, direction= 173
+step92: (x, y) = (91.6591 , -19.5032) 
+dstep = 10, direction= 95
+step93: (x, y) = (98.9608 , -12.6705) 
+dstep = 10, direction= 133
+step94: (x, y) = (103.91 , -3.98088) 
+dstep = 10, direction= 350
+step95: (x, y) = (101.073 , -13.5702) 
+dstep = 10, direction= 63
+step96: (x, y) = (110.932 , -11.8967) 
+dstep = 10, direction= 356
+step97: (x, y) = (105.529 , -20.3115) 
+dstep = 10, direction= 95
+step98: (x, y) = (112.831 , -13.4789) 
+dstep = 10, direction= 237
+step99: (x, y) = (110.94 , -23.2985) 
+dstep = 10, direction= 51
+step100: (x, y) = (118.362 , -16.5962) 
+dstep = 10, direction= 11
+step101: (x, y) = (118.406 , -26.5961) 
+dstep = 10, direction= 241
+step102: (x, y) = (112.211 , -18.7465) 
+dstep = 10, direction= 67
+step103: (x, y) = (107.033 , -27.3017) 
+dstep = 10, direction= 156
+step104: (x, y) = (111.749 , -36.1195) 
+dstep = 10, direction= 27
+step105: (x, y) = (108.828 , -26.5558) 
+dstep = 10, direction= 232
+step106: (x, y) = (117.708 , -31.1545) 
+dstep = 10, direction= 70
+step107: (x, y) = (124.041 , -23.4156) 
+dstep = 10, direction= 290
+step108: (x, y) = (129.665 , -15.1472) 
+dstep = 10, direction= 168
+step109: (x, y) = (128.914 , -25.1189) 
+dstep = 10, direction= 188
+step110: (x, y) = (137.711 , -29.8741) 
+dstep = 10, direction= 122
+step111: (x, y) = (129.043 , -24.887) 
+dstep = 10, direction= 329
+step112: (x, y) = (122.574 , -17.2616) 
+dstep = 10, direction= 137
+step113: (x, y) = (125.915 , -26.6868) 
+dstep = 10, direction= 194
+step114: (x, y) = (133.033 , -33.7106) 
+dstep = 10, direction= 273
+step115: (x, y) = (123.537 , -30.5786) 
+dstep = 10, direction= 169
+step116: (x, y) = (131.522 , -36.5986) 
+dstep = 10, direction= 65
+step117: (x, y) = (125.897 , -28.3303) 
+dstep = 10, direction= 151
+step118: (x, y) = (135.691 , -26.3088) 
+dstep = 10, direction= 112
+step119: (x, y) = (140.25 , -35.2088) 
+dstep = 10, direction= 127
+step120: (x, y) = (142.574 , -25.4825) 
+dstep = 10, direction= 325
+step121: (x, y) = (141.032 , -35.3629) 
+dstep = 10, direction= 257
+step122: (x, y) = (149.225 , -41.0964) 
+dstep = 10, direction= 300
+step123: (x, y) = (149.004 , -51.094) 
+dstep = 10, direction= 292
+step124: (x, y) = (139.145 , -49.4207) 
+dstep = 10, direction= 30
+step125: (x, y) = (140.687 , -59.301) 
+dstep = 10, direction= 162
+step126: (x, y) = (142.752 , -69.0855) 
+dstep = 10, direction= 356
+step127: (x, y) = (137.349 , -77.5004) 
+dstep = 10, direction= 258
+step128: (x, y) = (146.601 , -73.7041) 
+dstep = 10, direction= 130
+step129: (x, y) = (142.928 , -83.0051) 
+dstep = 10, direction= 105
+step130: (x, y) = (140.518 , -92.7105) 
+dstep = 10, direction= 309
+step131: (x, y) = (144.84 , -83.6925) 
+dstep = 10, direction= 13
+step132: (x, y) = (153.914 , -79.4908) 
+dstep = 10, direction= 219
+step133: (x, y) = (160.04 , -87.3949) 
+dstep = 10, direction= 16
+step134: (x, y) = (150.463 , -90.274) 
+dstep = 10, direction= 169
+step135: (x, y) = (158.448 , -96.294) 
+dstep = 10, direction= 118
+step136: (x, y) = (160.339 , -106.113) 
+dstep = 10, direction= 248
+step137: (x, y) = (150.512 , -104.266) 
+dstep = 10, direction= 112
+step138: (x, y) = (155.071 , -113.166) 
+dstep = 10, direction= 49
+step139: (x, y) = (158.077 , -122.703) 
