@@ -1,0 +1,39 @@
+1. what inherited class get from base class
+=> public methods,public members, protected members.
+=> acces the private members indirectly by the public methods.
+
+
+2. what inherited it can't get from base
+=> private members and methods
+=>constructor,destructor, assignment operator.
+
+3. if BaseDMA::operator=() returns void? or returns BaseDMA &
+=>if returns void, the signle assign is ok but cant continue assgin.
+
+4. will cal base cases constructor by the order. desconstuctor is in reverse, first the drived then it's base.
+
+5. constructor can't be inherited. it needs and compiler will have a default one. but need one even it's empty.
+
+6. it will call drived class's method.
+
+7. it has new operator.
+
+8. can assign drived class object to a base pointer. can't assign base class object to drived object pointer.
+
+
+9. yes. no
+
+10. yes
+
+
+11. yes. pass by vuall will call the copy constructor. as parameter is base ojbect, i will call base's copy constructor. and 
+
+
+
+
+12. don't need to call copy consturctor. don't need to call descructor.
+
+13.  normal method: itiwll call base's head. virutal: it will call drived base method.
+
+
+
