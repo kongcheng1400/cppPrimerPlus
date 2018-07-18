@@ -1,0 +1,4 @@
+1. if it-a relation, use public inheritance; if it's has a, use private inheritance, or use containment.
+- PolarBear is a Bear, use class PolarBear : public Bear
+- Home has a Kitchen, uses private inheritance or containment.
+
