@@ -6,12 +6,12 @@ using std::pair;
 using std::valarray;
 using std::string;
 
-typedef valarray<int> ArrayInt;
-typedef pair<ArrayInt, ArrayInt> PairArray;
 
 class Wine
 {
 	private:
+		typedef valarray<int> ArrayInt;
+		typedef pair<ArrayInt, ArrayInt> PairArray;
 		string brand;
 		PairArray inventory;
 		int numOfYears;

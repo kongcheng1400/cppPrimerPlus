@@ -1,5 +1,5 @@
 #include <iostream>
-#include "wine.h"
+#include "wine_dc.h"
 using std::cout;
 using std::endl;
 using std::cin;
@@ -21,9 +21,8 @@ void Wine::getBottles()
 	{
 		cout << "Please input years and bottles pair(eg: 2011 192): ";
 		cin >> y >> b;
-		PairArray::first()[i] = y;
-		PairArray::second()[i]= b; 
-
+		dynamic_cast<PairArray *>((Wine *)this)->first[i] = y;
+		(dynamic_cast<PairArray *>((Wine *)this))->second[i] = b;
 	}
 }
 
@@ -33,8 +32,8 @@ void Wine::show() const
 	cout << "\tyears" << "\tbottles" << endl;
 	for (int i = 0; i < years; i++) {
 		cout << "\t";
-		cout << ((PairArray)*this).first()[i] << "\t"
-			<< ((PairArray)*this).second()[i] << "\n";
+		cout << ((PairArray)*this).first[i] << "\t"
+			<< ((PairArray)*this).second[i] << "\n";
 	}
 }
 
@@ -48,5 +47,5 @@ const string & Wine::label() const
 
 int Wine::sum() const
 {
-	return ((PairArray)*this).second().sum();
+	return ((PairArray)*this).second.sum();
 }

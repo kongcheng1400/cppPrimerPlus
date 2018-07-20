@@ -1,11 +1,13 @@
 #include <string>
 #include <valarray>
-#include "pair.h" 
+#include <utility> 
 using std::string;
 using std::valarray;
+using std::pair;
+
 
 typedef valarray<int> ArrayInt;
-typedef Pair<ArrayInt, ArrayInt> PairArray;
+typedef pair<ArrayInt, ArrayInt> PairArray;
 
 class Wine : private string, private PairArray 
 {
