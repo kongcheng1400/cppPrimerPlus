@@ -1,0 +1,7 @@
+the difference between friend function and member function.
+1. declared in class.
+2. with friend modifier.
+3. it has two argument: one member and other aruments.
+4. doesn't need class :: in definiton.
+5. friend is not member function.
+

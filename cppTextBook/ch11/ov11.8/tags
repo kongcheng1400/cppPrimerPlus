@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Lbs_per_stn	stonewt.h	/^		enum {Lbs_per_stn = 14};$/;"	e	enum:Stonewt::__anon1
+STONEWT_H_	stonewt.h	2;"	d
+Stonewt	stonewt.cpp	/^Stonewt::Stonewt()$/;"	f	class:Stonewt
+Stonewt	stonewt.cpp	/^Stonewt::Stonewt(double lbs)$/;"	f	class:Stonewt
+Stonewt	stonewt.cpp	/^Stonewt::Stonewt(int stn, double lbs)$/;"	f	class:Stonewt
+Stonewt	stonewt.h	/^class Stonewt$/;"	c
+display	stone.cpp	/^void display(const Stonewt & st, int n)$/;"	f
+main	stone.cpp	/^int main()$/;"	f
+main	stonetest1.cpp	/^int main()$/;"	f
+operator *	stonewt.cpp	/^Stonewt Stonewt::operator*(double mul)$/;"	f	class:Stonewt
+operator *	stonewt.cpp	/^Stonewt operator*(double mul, Stonewt & st)$/;"	f
+operator <<	stonewt.cpp	/^ostream & operator<<(ostream & os, const Stonewt & st) $/;"	f
+operator double	stonewt.cpp	/^Stonewt::operator double() const$/;"	f	class:Stonewt
+operator int	stonewt.cpp	/^Stonewt::operator int() const$/;"	f	class:Stonewt
+pds_left	stonewt.h	/^		double pds_left;$/;"	m	class:Stonewt
+pounds	stonewt.h	/^		double pounds;$/;"	m	class:Stonewt
+show_lbs	stonewt.cpp	/^void Stonewt::show_lbs() const$/;"	f	class:Stonewt
+show_stn	stonewt.cpp	/^void Stonewt::show_stn() const$/;"	f	class:Stonewt
+stone	stonewt.h	/^		int stone;$/;"	m	class:Stonewt
+~Stonewt	stonewt.cpp	/^Stonewt::~Stonewt()$/;"	f	class:Stonewt

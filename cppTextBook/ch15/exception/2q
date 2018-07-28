@@ -1,0 +1,51 @@
+vertical resize +5
+vsplit classic.cpp
+vsplit classic.h
+vertical resize +10
+vertical resize +30
+vsplit dma.h
+vsplit dma.cpp
+WQ
+vsplit testport.cpp
+vertical resize + 6
+vertical resize +6
+vplist port.cpp
+vsplit port.h
+vsplit port.cpp
+waq
+edit student.cpp
+%s/
+vsplit work0.h
+vsplit worker0.h
+edit worker0.cpp
+vertical resize -8
+vsplit workermi.h
+30,.d
+vsplit stacktp.cpp
+vsplit tempmem_ext.cpp
+vsplit frabgloam.cpp
+vsplit testworkermi.cpp
+s
+vsplit winec.cpp
+W
+close
+vp
+w:
+vertical resize + 8
+vertical resize +8
+edit wine.cpp
+vsplit wine.cpp
+q!
+vsplit queuetp.cpp
+vsplit queuetp.h
+%s/nullptr/NULL
+vsplit baddude.cpp
+%s/abstr_emp/Abstr_emp
+nohlsearch
+vim emp.cpp
+vsplit emp.cpp
+vsplit emp.h
+q
+wq
+w
+
