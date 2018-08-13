@@ -15,7 +15,7 @@ int main()
 		auto_ptr<string>(new string("Goose Eggs"))
 	};
 
-	unique_ptr<string> pwin;
+	shared_ptr<string> pwin;
 	pwin = films[2]; //films[2] loses ownership
 
 	cout << "the nominess for best avian baseball film are\n";
