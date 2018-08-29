@@ -1,0 +1,3 @@
+1. iostream: include iostream will generate 4 objects, cin, cout.
+2. 121 from byte input(char input) to integer , two different
+3. cout overrides a lot of different types.
